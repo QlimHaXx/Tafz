@@ -7,9 +7,7 @@
 /ClientApp/out-tsc
 
 # database
-/ServerApp/data/WiredTiger.lock
-/ServerApp/data/mongod.lock
-/ServerApp/data/journal/
+/ServerApp/data/
 
 # dependencies
 /ServerApp/node_modules
