@@ -1,0 +1,18 @@
+{
+  "name": "tafz",
+  "version": "0.0.1",
+  "description": "Site pour cher des petits tafz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "author": "QlimHaXx, AntrHaXx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
