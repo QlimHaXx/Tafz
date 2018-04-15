@@ -7,7 +7,7 @@
 /ClientApp/out-tsc
 
 # database
-/ServerApp/data/
+/ServerApp/data
 
 # dependencies
 /ServerApp/node_modules
