@@ -6,6 +6,11 @@
 /ClientApp/tmp
 /ClientApp/out-tsc
 
+# database
+/ServerApp/data/WiredTiger.lock
+/ServerApp/data/mongod.lock
+/ServerApp/data/journal/
+
 # dependencies
 /ServerApp/node_modules
 
